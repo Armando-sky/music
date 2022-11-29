@@ -88,12 +88,12 @@ section{
 
 .respuesta p{
   color: rgba(255, 255, 255, .6);
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   padding: 2rem;
 }
 
 .acordeon-item:target .respuesta{
-  max-height: 30rem;
+  max-height: 35rem;
 }
 
 .acordeon-item:target .acordeon-link .ion-md-add{
