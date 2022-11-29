@@ -17,7 +17,7 @@
 
 html{
   font-family: 'Urbanist', sans-serif;
-  font-size: 8px;
+  font-size: 10px;
   box-sizing: border-box;
   background-color: #3c4053;
 }
@@ -47,7 +47,7 @@ section{
 }
 
 .acordeon-link{
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   color: rgba(255,255,255,.8);
   text-decoration: none;
   background-color: #283042;
@@ -88,12 +88,12 @@ section{
 
 .respuesta p{
   color: rgba(255, 255, 255, .6);
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   padding: 2rem;
 }
 
 .acordeon-item:target .respuesta{
-  max-height: 35rem;
+  max-height: 36rem;
 }
 
 .acordeon-item:target .acordeon-link .ion-md-add{
