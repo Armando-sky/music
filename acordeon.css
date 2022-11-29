@@ -10,14 +10,14 @@
   font-family:'Courier New', Courier, monospace;
   display: flex;
   justify-content: center;
-  font-size: 26px;
+  font-size: 20px;
   margin: 10px auto;
   color: #00ff22;
 }
 
 html{
   font-family: 'Urbanist', sans-serif;
-  font-size: 10px;
+  font-size: 8px;
   box-sizing: border-box;
   background-color: #3c4053;
 }
@@ -47,7 +47,7 @@ section{
 }
 
 .acordeon-link{
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   color: rgba(255,255,255,.8);
   text-decoration: none;
   background-color: #283042;
@@ -88,7 +88,7 @@ section{
 
 .respuesta p{
   color: rgba(255, 255, 255, .6);
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   padding: 2rem;
 }
 
